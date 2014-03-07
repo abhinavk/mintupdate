@@ -9,4 +9,6 @@ Type=Application
 Categories=
 X-GNOME-Autostart-Delay=20
 X-MATE-Autostart-Delay=20
+X-KDE-StartupNotify=false
+X-KDE-autostart-after=panel
 
